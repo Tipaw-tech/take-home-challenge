@@ -1,1 +1,54 @@
-# take-home-challenge
+# Tipaw Take-home challenge
+
+## 🚀 Briefing
+
+### 🖥️ Frontend
+
+Your task is to build a responsive and user friendly signup form. The form should collect the following information from the user:
+
+- **First name**
+- **Last name**
+- **Phone number**
+- **Email address**
+- **Password**
+  - Minumum 8 characters, with atleast one uppercase letter, one number and one special character
+- **Confirm password**
+  - Has to match the password
+- **Accepted terms & conditions**
+
+On submission, the form should send this information to your backend
+
+The form should be able to work seamlessly on both desktop and mobile devices.
+
+The UI and UX are up to you, go nuts!
+
+### 🌐 Backend
+
+The backend API should be able to receive the frontend data, and store it in a local database.
+
+## 📚 Tech stack
+
+We would like to test your knowledge and the following technologies, so we do ask that you use atleast:
+
+- **React**
+- **Typescript**
+- **ES6+**
+- **Node.js**
+
+Feel free to use any technologies in addition to those mentionned above. No library is off limits.
+
+## ✨ Bonus points
+
+- Server side rendering (even though not useless here, we are curious to see how you would do it)
+- Using GraphQL + Prisma + PostgresQL for the backend
+- A way for users to login (session management)
+- Building a design system for the UI components
+- A clear project architecture
+- Deploy the applications
+
+## 📝 Final note
+
+We recommend that you spend a **maximum of 4 hours** on this challenge. Your goal should not be to deliver a final product, but more for us to have enough to test your knowledge and understanding of the technologies.
+
+We hope you will enjoy working on this challenge, and if you have any questions
+please do not hesitate to react out to **lghys@tipaw.com**

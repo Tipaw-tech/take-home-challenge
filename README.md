@@ -20,7 +20,10 @@ On submission, the form should send this information to your backend
 
 The form should be able to work seamlessly on both desktop and mobile devices.
 
-The UI and UX are up to you, go nuts!
+The UI and UX should closely follow this [page](https://tipaw.com/inscription/particulier)
+
+<img width="1731" alt="image" src="https://user-images.githubusercontent.com/54412555/155098570-e76ba419-5ea0-42e9-8844-3f004cf07c58.png">
+
 
 ### 🌐 Backend
 
@@ -30,10 +33,11 @@ The backend API should be able to receive the frontend data, and store it in a l
 
 We would like to test your knowledge and the following technologies, so we do ask that you use atleast:
 
-- **React**
-- **Typescript**
+- [**React**](https://reactjs.org/)
+- [**Typescript**](https://www.typescriptlang.org/)
 - **ES6+**
-- **Node.js**
+- [**Node.js**](https://nodejs.org/en/)
+- [**Emotion.js**](https://emotion.sh/docs/introduction) for styling
 
 Feel free to use any technologies in addition to those mentionned above. No library is off limits.
 

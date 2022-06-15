@@ -68,4 +68,4 @@ We recommend that you spend a **maximum of 4 hours** on this challenge. Your goa
 Do not using any templates, pre-build tutorials, or any code that is not written by yourself for the majority of the challenge.
 
 We hope you will enjoy working on this challenge, and if you have any questions
-please do not hesitate to react out to **lghys@tipaw.com**
+please do not hesitate to react out to **pmoens@tipaw.com**
